@@ -3,6 +3,7 @@ package com.kxm.entity;
 import java.util.Date;
 
 public class Student {
+    //private int i;
     private String name;
     private int age;
     private Date birtyday;
